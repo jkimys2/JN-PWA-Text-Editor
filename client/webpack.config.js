@@ -26,7 +26,7 @@ module.exports = () => {
 
       // Webpack plugin that generates the html file and injects bundles
       new HtmlWebpackPlugin({
-        template: "index.html",
+        template: "./index.html",
         title: "J.A.T.E",
       }),
 
@@ -38,8 +38,8 @@ module.exports = () => {
         description: "Just Another Text Editor",
         background_color: "#225ca3",
         theme_color: "#225ca3",
-        start_url: "./",
-        public_path: "./",
+        start_url: "/",
+        public_path: "/",
         icons: [
           {
             src: path.resolve("src/images/logo.png"),
