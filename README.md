@@ -40,3 +40,20 @@ THEN I should have my static assets pre cached upon loading along with subsequen
 WHEN I deploy to Render
 THEN I should have proper build scripts for a webpack application
 ```
+
+The project was created with given starter code. Render was used in order to deploy the application. You can visit the deployed page by cliking [here](#links)!
+
+
+
+## Installation
+
+In order to navigate through the text editor code, you will need to:
+- Install the dependencies in the package.json files by running ```npm i``` in the integrated terminal <br> 
+- Run the files by typing ```npm run start``` in the terminal in the root directory <br>
+
+
+## Usage
+
+You can navigate to the [deployed page](#links) in order to test the text editor. By typing into the text editor, you will see that the data persists due to IndexedDB. You can also install the application by clicking the ```Install!``` button seen in the top left corner!
+
+
