@@ -57,3 +57,11 @@ In order to navigate through the text editor code, you will need to:
 You can navigate to the [deployed page](#links) in order to test the text editor. By typing into the text editor, you will see that the data persists due to IndexedDB. You can also install the application by clicking the ```Install!``` button seen in the top left corner!
 
 
+## Credits
+
+Thank you, Chris B., for all your help! 😊👍
+
+
+## Links
+[GitHub Repository](https://github.com/jkimys2/JN-PWA-Text-Editor) <br>
+[Deployed Page](https://jn-pwa-text-editor.onrender.com/)
