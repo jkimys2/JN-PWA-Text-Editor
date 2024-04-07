@@ -1,17 +1,16 @@
 # JN-PWA-Text-Editor
 
-
 ## Table of Contents
+
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
 - [Links](#links)
 
-
 ## Description
 
-Through this challenge, I was able to build a text editor that runs in the browser. The app is a single-page application that meets the progressive web application criteria. The web page was built following the acceptance criterias listed below: 
+Through this challenge, I was able to build a text editor that runs in the browser. The app is a single-page application that meets the progressive web application criteria. The web page was built following the acceptance criterias listed below:
 
 ```md
 GIVEN a text editor web application
@@ -43,25 +42,26 @@ THEN I should have proper build scripts for a webpack application
 
 The project was created with starter code that was provided. Render was used in order to deploy the application. You can visit the deployed page by clicking [here](#links)!
 
-
-
 ## Installation
 
 In order to navigate through the text editor code, you will need to:
-- Install the dependencies in the package.json files by running ```npm i``` in the integrated terminal <br> 
-- Run the files by typing ```npm run start``` in root directory of the integrated terminal <br>
 
+- Install the dependencies in the package.json files by running `npm i` in the integrated terminal <br>
+- Run the files by typing `npm run start` in root directory of the integrated terminal <br>
 
 ## Usage
 
-You can navigate to the [deployed page](#links) in order to test the text editor. By typing into the text editor, you will see that the data persists due to IndexedDB, even when you refresh the page! You can also install the application by clicking the ```Install!``` button seen in the top left corner!
+You can navigate to the [deployed page](#links) in order to test the text editor. By typing into the text editor, you will see that the data persists due to IndexedDB, even when you refresh the page! You can also install the application by clicking the `Install!` button seen in the top left corner!
 
+You can see how the deployed app appears below:
+
+![Screenshot](./assets/Screenshot.png)
 
 ## Credits
 
 Thank you, Chris B., for all your help! 😊👍
 
-
 ## Links
+
 [GitHub Repository](https://github.com/jkimys2/JN-PWA-Text-Editor) <br>
 [Deployed Page](https://jn-pwa-text-editor.onrender.com/)
