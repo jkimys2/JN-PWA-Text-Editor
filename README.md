@@ -11,7 +11,7 @@
 
 ## Description
 
-Through this challenge, I was able to build a text editor that runs in the browser. The app is a single-page application that meets ther progressive web application criteria. The application was built following the listed acceptance criteria below: 
+Through this challenge, I was able to build a text editor that runs in the browser. The app is a single-page application that meets the progressive web application criteria. The web page was built following the acceptance criterias listed below: 
 
 ```md
 GIVEN a text editor web application
