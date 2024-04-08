@@ -40,7 +40,7 @@ WHEN I deploy to Render
 THEN I should have proper build scripts for a webpack application
 ```
 
-The project was created with starter code that was provided. Render was used in order to deploy the application. You can visit the deployed page by clicking [here](#links)!
+The project was created with starter code that was provided. Render was used in order to deploy the application. You can visit the deployed page by clicking [here](https://jn-pwa-text-editor.onrender.com/)!
 
 ## Installation
 
@@ -51,7 +51,7 @@ In order to navigate through the text editor code, you will need to:
 
 ## Usage
 
-You can navigate to the [deployed page](#links) in order to test the text editor. By typing into the text editor, you will see that the data persists due to IndexedDB, even when you refresh the page! You can also install the application by clicking the `Install!` button seen in the top left corner!
+You can navigate to the [deployed page](https://jn-pwa-text-editor.onrender.com/) in order to test the text editor. By typing into the text editor, you will see that the data persists due to IndexedDB, even when you refresh the page! You can also install the application by clicking the `Install!` button seen in the top left corner!
 
 You can see how the deployed app appears below:
 
