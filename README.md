@@ -59,7 +59,7 @@ You can see how the deployed app appears below:
 
 ## Credits
 
-Thank you, Chris B., for all your help! 😊👍
+Thank you, Chris B. & Andrew B., for all your help! 😊👍
 
 ## Links
 
